@@ -42,3 +42,6 @@ celerybeat-schedule.db
 .coverage
 .tox
 .cache
+
+# Virtualenv
+.venv/
